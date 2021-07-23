@@ -1,0 +1,25 @@
+Project Setup
+==============
+
+// Create Membership Project
+// Create Database
+// Migrate Defaults
+// Custom Domain Setup
+// Add Bootstrap and make ready 
+
+
+Laravel authentication
+=======================
+
+App\Http\Controllers\authentication
+    RegisterController
+    LoginController
+    ForgotPasswordController
+    ResetPasswordController
+
+About create_user_table migration
+Create Two Route
+Create Auth Folder
+Create Register View
+Create Link for Register View
+
